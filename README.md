@@ -1,5 +1,4 @@
-## Hi there 👋
-
+## ciencia da computacao e nao sei oque la
 <!--
 **miguellts/miguellts** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
